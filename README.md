@@ -55,8 +55,8 @@ python pixel.py
 
 ### Results
 
-![segname]<img src="https://user-images.githubusercontent.com/93422935/139528371-5923290d-0b0f-4ec5-8071-f8065194bcc5.png" width="50%" height="50%">
-<img src="" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/93422935/139528371-5923290d-0b0f-4ec5-8071-f8065194bcc5.png" width="50%" height="50%">
 
-![image]<img src="https://user-images.githubusercontent.com/93422935/139528399-feb5aa93-1f05-496f-bb69-ea0bfbd6836c.png" width="50%" height="50%">
-<img src="" width="50%" height="50%">
+
+<img src="https://user-images.githubusercontent.com/93422935/139528399-feb5aa93-1f05-496f-bb69-ea0bfbd6836c.png" width="50%" height="50%">
+
