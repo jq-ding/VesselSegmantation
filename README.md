@@ -55,6 +55,6 @@ python pixel.py
 
 ### Results
 
-![segname](https://user-images.githubusercontent.com/93422935/139528371-5923290d-0b0f-4ec5-8071-f8065194bcc5.png)
+![segname](https://user-images.githubusercontent.com/93422935/139528371-5923290d-0b0f-4ec5-8071-f8065194bcc5.png)<img style="zoom:80%;" />
 
 ![image](https://user-images.githubusercontent.com/93422935/139528399-feb5aa93-1f05-496f-bb69-ea0bfbd6836c.png)
