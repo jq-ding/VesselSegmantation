@@ -1,6 +1,6 @@
 # VesselSegmantation
 
-## A Multi-channel Deep Neural Network for Retina Vessel Segmentation via a Fusion Mechanism
+## [A Multi-channel Deep Neural Network for Retina Vessel Segmentation via a Fusion Mechanism](https://www.frontiersin.org/articles/10.3389/fbioe.2021.697915/full)
 
 ![frame](https://user-images.githubusercontent.com/93422935/139528410-7a066942-c5c5-4590-91d0-4bda14ef8e07.png)
 
